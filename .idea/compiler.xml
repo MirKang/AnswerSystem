@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Activiti01" />
+        <module name="Activiti02" />
+        <module name="AnswerSystem" />
+        <module name="CodeShare" />
+        <module name="jiali" />
+        <module name="MacaOffice" />
+        <module name="MacaTQCS" />
+        <module name="SSM_Quest" />
+        <module name="Ticktack_Office" />
+        <module name="Ticktack_TQCS" />
+        <module name="WebServiceClient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Activiti" target="1.5" />
+      <module name="Activiti01" target="1.8" />
+      <module name="Activiti02" target="1.8" />
+      <module name="AnswerSystem" target="1.8" />
+      <module name="CodeShare" target="1.8" />
+      <module name="jiali" target="1.8" />
+      <module name="kangliao" target="1.8" />
+      <module name="Maca_TQCS" target="1.5" />
+      <module name="MacaOA" target="1.8" />
+      <module name="MacaOffice" target="1.8" />
+      <module name="MacaTQCS" target="1.8" />
+      <module name="S2SH_CRUD" target="1.5" />
+      <module name="ShiroAdminWeb" target="1.8" />
+      <module name="ShiroManage" target="1.8" />
+      <module name="SSM_Quest" target="1.8" />
+      <module name="SSM_Quest (1) (com.qfedu)" target="1.5" />
+      <module name="Struts01" target="1.5" />
+      <module name="Struts_01" target="1.8" />
+      <module name="Struts_Study" target="1.8" />
+      <module name="StrutsStudy" target="1.5" />
+      <module name="TickOA" target="1.8" />
+      <module name="Ticktack_Office" target="1.8" />
+      <module name="Ticktack_TQCS" target="1.8" />
+      <module name="WebService" target="1.8" />
+      <module name="WebServiceClient" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

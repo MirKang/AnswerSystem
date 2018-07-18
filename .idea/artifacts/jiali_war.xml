@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jiali:war">
+    <output-path>E:/千锋教育/1802/第三阶段/三阶段考试题/jiali/target</output-path>
+    <root id="archive" name="jiali-1.0.0.war">
+      <element id="artifact" artifact-name="jiali:war exploded" />
+    </root>
+  </artifact>
+</component>

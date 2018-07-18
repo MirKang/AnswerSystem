@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MacaTQCS:war">
+    <output-path>$PROJECT_DIR$/../MacaOA/MacaTQCS/target</output-path>
+    <root id="archive" name="MacaTQCS-1.0.0.war">
+      <element id="artifact" artifact-name="MacaTQCS:war exploded" />
+    </root>
+  </artifact>
+</component>

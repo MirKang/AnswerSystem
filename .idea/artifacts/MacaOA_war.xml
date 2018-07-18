@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MacaOA:war">
+    <output-path>$PROJECT_DIR$/../MacaOA/target</output-path>
+    <root id="archive" name="MacaOA-1.0.0.war" />
+  </artifact>
+</component>

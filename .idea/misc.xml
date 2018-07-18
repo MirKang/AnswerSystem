@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../Activiti/Activiti01" />
+    <file type="web" url="file://$PROJECT_DIR$/../Activiti/Activiti02" />
+    <file type="web" url="file://$PROJECT_DIR$/../AnswerSystem" />
+    <file type="web" url="file://$PROJECT_DIR$/../CodeShare" />
+    <file type="web" url="file://$PROJECT_DIR$/../kangliao" />
+    <file type="web" url="file://$PROJECT_DIR$/../MacaOA" />
+    <file type="web" url="file://$PROJECT_DIR$/../ShiroManage" />
+    <file type="web" url="file://$PROJECT_DIR$/../SSM_Quest" />
+    <file type="web" url="file://$PROJECT_DIR$/../StrutsStudy/S2SH_CRUD" />
+    <file type="web" url="file://E:/1802/第三阶段/0705SSM强化/代码/SSM_Quest" />
+    <file type="web" url="file://E:/1802/第三阶段/Day49_Struts2和S2SH整合/代码/Struts_Study/Struts_01" />
+    <file type="web" url="file://E:/千锋教育/1802/第三阶段/Day51Shiro应用/代码/ShiroAdminWeb" />
+    <file type="web" url="file://E:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_Office" />
+    <file type="web" url="file://E:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_TQCS" />
+    <file type="web" url="file://E:/千锋教育/1802/第三阶段/三阶段考试题/jiali" />
+    <file type="web" url="file://F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_Office" />
+    <file type="web" url="file://F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_TQCS" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../SSM_Quest/pom.xml" />
+        <option value="$PROJECT_DIR$/../CodeShare/pom.xml" />
+        <option value="$PROJECT_DIR$/../Activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebService/pom.xml" />
+        <option value="E:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/pom.xml" />
+        <option value="$PROJECT_DIR$/../MacaOA/pom.xml" />
+        <option value="$PROJECT_DIR$/../AnswerSystem/pom.xml" />
+        <option value="E:/千锋教育/1802/第三阶段/三阶段考试题/jiali/pom.xml" />
+        <option value="F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../Activiti/Activiti/pom.xml" />
+        <option value="$PROJECT_DIR$/../MacaOA/MacaOffice/pom.xml" />
+        <option value="$PROJECT_DIR$/../MacaOA/MacaTQCS/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebService/WebService_Client/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

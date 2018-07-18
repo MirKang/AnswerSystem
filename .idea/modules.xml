@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Activiti/Activiti.iml" filepath="$PROJECT_DIR$/../Activiti/Activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activiti/Activiti01/Activiti01.iml" filepath="$PROJECT_DIR$/../Activiti/Activiti01/Activiti01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activiti/Activiti02/Activiti02.iml" filepath="$PROJECT_DIR$/../Activiti/Activiti02/Activiti02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AnswerSystem/AnswerSystem.iml" filepath="$PROJECT_DIR$/../AnswerSystem/AnswerSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CodeShare/CodeShare.iml" filepath="$PROJECT_DIR$/../CodeShare/CodeShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MacaOA/MacaOA.iml" filepath="$PROJECT_DIR$/../MacaOA/MacaOA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MacaOA/MacaOffice/MacaOffice.iml" filepath="$PROJECT_DIR$/../MacaOA/MacaOffice/MacaOffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MacaOA/MacaTQCS/MacaTQCS.iml" filepath="$PROJECT_DIR$/../MacaOA/MacaTQCS/MacaTQCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StrutsStudy/SSMQuest.iml" filepath="$PROJECT_DIR$/../StrutsStudy/SSMQuest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SSM_Quest/SSM_Quest.iml" filepath="$PROJECT_DIR$/../SSM_Quest/SSM_Quest.iml" />
+      <module fileurl="file://F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/TickOA.iml" filepath="F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/TickOA.iml" />
+      <module fileurl="file://E:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/TickOA.iml" filepath="E:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/TickOA.iml" />
+      <module fileurl="file://F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_Office/Ticktack_Office.iml" filepath="F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_Office/Ticktack_Office.iml" />
+      <module fileurl="file://F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_TQCS/Ticktack_TQCS.iml" filepath="F:/千锋教育/1802/第三阶段/Day56_WebService/代码/TickOA/Ticktack_TQCS/Ticktack_TQCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebService/WebService.iml" filepath="$PROJECT_DIR$/../WebService/WebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebService/WebServiceClient/WebServiceClient.iml" filepath="$PROJECT_DIR$/../WebService/WebServiceClient/WebServiceClient.iml" />
+      <module fileurl="file://E:/千锋教育/1802/第三阶段/三阶段考试题/jiali/jiali.iml" filepath="E:/千锋教育/1802/第三阶段/三阶段考试题/jiali/jiali.iml" />
+    </modules>
+  </component>
+</project>

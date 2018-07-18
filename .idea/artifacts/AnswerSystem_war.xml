@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AnswerSystem:war">
+    <output-path>$PROJECT_DIR$/../AnswerSystem/target</output-path>
+    <root id="archive" name="Answer-1.0.0.war" />
+  </artifact>
+</component>
